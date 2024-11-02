@@ -1,0 +1,9 @@
+torch
+torchvision
+torchmetrics
+numpy
+scikit-image
+Pillow
+matplotlib
+
+Versions are not mentioned since we used Google Colab for most of it.
