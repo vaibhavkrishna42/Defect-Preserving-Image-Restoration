@@ -1,5 +1,5 @@
 # Defect-Preserving-Image-Restoration
-## Deep Learning for Imaging ((EE5179) Course Project under Professor A N Rajagopalan, Department of Electrical Engineering, IIT Madras.      
+Deep Learning for Imaging ((EE5179) Course Project under Professor A N Rajagopalan, Department of Electrical Engineering, IIT Madras.      
 
 
 # Directions for training  
