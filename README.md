@@ -2,7 +2,7 @@
 Deep Learning for Imaging ((EE5179) Course Project under Professor A N Rajagopalan, Department of Electrical Engineering, IIT Madras.      
 
 
-### Directions for training  
+### Directions for training/testing  
 To train the RCAN model:  
 `python rcan_model.py`    
 
